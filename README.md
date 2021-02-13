@@ -1,12 +1,9 @@
-[![Thumbnail](https://img.youtube.com/vi/0YPLf7Bw5W4/0.jpg)](https://www.youtube.com/watch?v=0YPLf7Bw5W4)
 
 # Single installation script for setting up Valheim on a dedicated Linux server with steamcmd.
 ###### Tested on: AWS, Azure, Google Cloud and DigitalOcean
 ###### OS - Ubuntu 18.06 LTS 64bit and Ubuntu 20.04 LTS (tested 10 FEB 2021)
 ###### Recommended server settings:  CPU: 4 (2 will work but meh)  RAM: 8GB+  Harddrive: 250GB+
-###### My Twitch Channel: https://www.twitch.tv/zerobandwidth
-###### My Discord for Tech Support https://discord.gg/ejgQUfc
-###### Credit and modivation from YT GeekHead, nicolas-martin for variable assignment, madmozg typo fixes and bherbruck profile creation corrections and beko for KillSignal=SIGINT corrections
+###### Forked from  Nimdy/Dedicated_Valheim_Server_Script
 
 ### Game is in Early Access meaning tons of updates and broken servers. Please post issues so we can make our edits and keep you up and running!
 Visit the WIKI for helpful troubleshooting tips and tricks.
